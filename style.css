@@ -58,3 +58,9 @@ Updated: 2021-05-06 13:00:26
 	color: #333333 !important;
 	font-weight: bold !important;
 }
+
+//changes the price text to make it more visible
+.woocommerce ul.products li.product .price {
+	color: #132c33 !important;
+	font-weight: bold !important;
+}
