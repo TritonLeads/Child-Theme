@@ -45,3 +45,10 @@ Updated: 2021-05-06 13:00:26
 .mean-container .mean-nav {
 	background-color: #132c33 !important;
 }
+
+//adds a thin white border to the products image
+.woocommerce-page img {
+	border-style: solid !important;
+	border-width: 3px !important;
+	border-color: #ffffff !important;
+}
