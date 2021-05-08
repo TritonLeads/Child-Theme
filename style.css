@@ -69,3 +69,8 @@ Updated: 2021-05-06 13:00:26
 .woocommerce .woocomerce-LostPassword a {
 	color: #132c33 !important;
 }
+
+//removes light grey border from the login page
+.woocomerce form.register {
+	border-width: 0px !important;
+}
