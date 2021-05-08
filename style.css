@@ -91,3 +91,8 @@ Updated: 2021-05-06 13:00:26
 .mc-main caption, .mc-main.list .my-calendar-month, .mc-main .heading {
     display: none !important;
 }
+
+//hides some active links which my calendar displays 
+.mc-main a {
+    display: none !important;
+}
