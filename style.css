@@ -107,3 +107,8 @@ Updated: 2021-05-06 13:00:26
 .mc-main .my-calendar-header, .mc-main .mc_bottomnav {
     margin-bottom: 5px !important;
 }
+
+//adjusts the padding for the submit button in the calendar page to be more streamlined
+.mc-main .my-calendar-date-switcher input[type=submit] {
+    padding: 0px 0px !important;
+}
