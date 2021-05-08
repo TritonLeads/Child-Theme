@@ -16,6 +16,11 @@ Updated: 2021-05-06 13:00:26
 	background-color: #aad8d3 !important;
 }
 
+//changes navigation bar background colour
+.site-header {
+	background-color: #eeeeee !important;
+}
+
 //changes footer background colour
 .site-footer .site-info {
 	background-color: #393e46 !important;
