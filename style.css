@@ -20,3 +20,8 @@ Updated: 2021-05-06 13:00:26
 .site-footer .site-info {
 	background-color: #393e46 !important;
 }
+
+//changes side panel background colour
+.widget.widget {
+	background-color: #eeeeee !important;
+}
