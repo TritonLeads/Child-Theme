@@ -112,3 +112,9 @@ Updated: 2021-05-06 13:00:26
 .mc-main .my-calendar-date-switcher input[type=submit] {
     padding: 0px 0px !important;
 }
+
+
+//hides the event category in the bottom of the calander page
+.mc-main .category-key h3 {
+    display: none !important;
+}
