@@ -30,3 +30,8 @@ Updated: 2021-05-06 13:00:26
 .widget.widget {
 	background-color: #eeeeee !important;
 }
+
+//changes the search field backgroudn colour
+.search-field {
+	background-color: #eeeeee !important;
+}
