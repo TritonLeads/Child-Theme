@@ -86,3 +86,8 @@ Updated: 2021-05-06 13:00:26
     width: 100% !important;
     text-align: center !important;
 }
+
+//hides some text from the my calendar plugin
+.mc-main caption, .mc-main.list .my-calendar-month, .mc-main .heading {
+    display: none !important;
+}
