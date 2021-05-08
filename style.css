@@ -96,3 +96,9 @@ Updated: 2021-05-06 13:00:26
 .mc-main a {
     display: none !important;
 }
+
+
+//hides the text dispalying the month since its already displayed in a different field
+.mc-main .mc-time .month {
+    display: none !important;
+}
