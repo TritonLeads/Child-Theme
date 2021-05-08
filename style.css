@@ -40,3 +40,8 @@ Updated: 2021-05-06 13:00:26
 .mean-container .mean-bar {
 	background: #393e46 !important;
 }
+
+//changes the navigation sub menus background colour in mobile view
+.mean-container .mean-nav {
+	background-color: #132c33 !important;
+}
