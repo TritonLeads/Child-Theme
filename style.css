@@ -35,3 +35,8 @@ Updated: 2021-05-06 13:00:26
 .search-field {
 	background-color: #eeeeee !important;
 }
+
+//changes the navigation menu background colour in mobile view
+.mean-container .mean-bar {
+	background: #393e46 !important;
+}
