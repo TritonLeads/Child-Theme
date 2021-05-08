@@ -81,3 +81,8 @@ Updated: 2021-05-06 13:00:26
 	padding-bottom: 14px !important;
 }
 
+//changes the 'add to basket' button to be wide as the product image and centered
+.woocommerce ul.products li.product .button {
+    width: 100% !important;
+    text-align: center !important;
+}
