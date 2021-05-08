@@ -74,3 +74,10 @@ Updated: 2021-05-06 13:00:26
 .woocomerce form.register {
 	border-width: 0px !important;
 }
+
+//rearranges the show password icon to fit adequatly in the password field
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea {
+	padding: 0 !important;
+	padding-bottom: 14px !important;
+}
+
