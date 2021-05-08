@@ -64,3 +64,8 @@ Updated: 2021-05-06 13:00:26
 	color: #132c33 !important;
 	font-weight: bold !important;
 }
+
+//changes the colour of the 'lost password' text
+.woocommerce .woocomerce-LostPassword a {
+	color: #132c33 !important;
+}
