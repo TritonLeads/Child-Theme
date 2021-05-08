@@ -118,3 +118,10 @@ Updated: 2021-05-06 13:00:26
 .mc-main .category-key h3 {
     display: none !important;
 }
+
+//changes the appareance of events on the calander to make them more coherant with the website colour scheme
+.mc-main .mc_general .event-title, .mc-main .mc_general .event-title a {
+    background: #393e46 !important;
+    color: #ffffff !important;
+    display: block !important;
+}
