@@ -102,3 +102,8 @@ Updated: 2021-05-06 13:00:26
 .mc-main .mc-time .month {
     display: none !important;
 }
+
+//adds a bit of spacing between the calendar and the header
+.mc-main .my-calendar-header, .mc-main .mc_bottomnav {
+    margin-bottom: 5px !important;
+}
