@@ -52,3 +52,9 @@ Updated: 2021-05-06 13:00:26
 	border-width: 3px !important;
 	border-color: #ffffff !important;
 }
+
+//changes the text of the product
+.woocommerce-loop-product__title {
+	color: #333333 !important;
+	font-weight: bold !important;
+}
